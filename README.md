@@ -52,6 +52,8 @@ URL TestMiner: `https://andrehora.github.io/testminer/#spring-projects/spring-bo
 
 Explicação: `O repositório apresenta uma prática de teste robusta, utilizando o framework JUnit para testes unitários e de integração. A análise do TestMiner mostra que há uma cobertura significativa de testes, com uma boa organização dos arquivos de teste em pacotes correspondentes aos módulos do projeto. Além disso, a evolução dos testes ao longo das versões indica um compromisso contínuo com a qualidade do software, refletindo a importância de manter os testes atualizados à medida que novas funcionalidades são adicionadas. É possível notar que a maioria dos arquivos do repositório correspondem a testes ou auxiliares de teste, o que demonstra a prioridade dada à confiabilidade do código. Uma prática a ser notada é que, historicamente, não havia a utilização de fixtures, e essas foram introduzidas em versões mais recentes para melhorar a eficiência dos testes.`
 
+![Análise do TestMiner Spring Boot](spring-boot.png)
+
 ### Repositório 2
 
 Repositório: `https://github.com/flutter/flutter`
@@ -59,3 +61,5 @@ Repositório: `https://github.com/flutter/flutter`
 URL TestMiner: `https://andrehora.github.io/testminer/#flutter/flutter`
 
 Explicação: `Após a anaálise, vÊ-se que o framework Flutter utiliza uma abordagem de teste abrangente, incorporando testes unitários, de widget, de integração e, inclusive, E2E. O TestMiner revela que há uma grande quantidade de testes automatizados, o que é crucial para um framework que visa fornecer uma experiência consistente em múltiplas plataformas. A organização dos testes é clara, com diretórios específicos para diferentes tipos de testes, facilitando a manutenção e a expansão do conjunto de testes. Além disso, a evolução dos testes ao longo do tempo mostra um aumento na cobertura e na complexidade dos casos de teste, refletindo a maturidade do projeto e o compromisso com a qualidade do software. Uma prática interessante observada é o uso extensivo de mocks e stubs para isolar componentes durante os testes, garantindo que os testes sejam rápidos e confiáveis.`
+
+![Análise do TestMiner Flutter](flutter.png)
